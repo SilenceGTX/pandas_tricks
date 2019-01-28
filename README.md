@@ -1,2 +1,3 @@
-# pandas_tricks
-some useful pandas tricks
+# pandas非常用技巧汇总
+pandas对于从事python数据挖掘的朋友们来说几乎是不可或缺，市面上和网络上也有很多介绍pandas入门和实用技巧的书籍或是博客、代码等。在此，我们谨将我们在实际工作或是比赛中遇到的，可能不太常用的一些pandas应用技巧汇总与此，与大家分享，也帮助自己总结和记忆。其中有许多是源于StackOverflow的优秀答案，也非常感谢他们的聪明才智，为我们使用pandas踏平坎坷。希望这些代码可以帮助大家把pandas用得更加熟练。
+
